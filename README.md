@@ -32,10 +32,10 @@
     <p>
         <img src="output.jpg" width="350" height="350" >
     </p>
-    <h2>Video of Result</h2>
+<!--     <h2>Video of Result</h2>
     <video width="600" controls>
         <source src="video.mp4" type="video/mp4">
-    </video>
+    </video> -->
     <h2>Resources</h2>
 <p>Movie Dataset: <a href="https://drive.google.com/file/d/1cCkwiVv4mgfl20ntgY3n4yApcWqqZQe6/view" target="_blank">View Dataset</a></p>
 <p>Research Paper: <a href="https://www.riejournal.com/article_106395_c6c0038f1bf5d4c421bd552d0541d6bepdf" target="_blank">Read Paper</a></p>
