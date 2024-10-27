@@ -3,7 +3,7 @@
 <body>
     <h1>Movie Recommendation System For ACM</h1>
     <p align="center">
-        <img src="photo1.jpg" width="300" height="300">
+        <img src="photo1.jpg" width="500" height="400">
      </p>
     <p>This project aims to build a movie recommendation system using Machine Learning (ML) techniques. The system will analyze user data like ratings, watch history, and preferences to suggest personalized movie choices, helping users navigate the vast film catalog efficiently.</p>
     <h3>Movie Recommended Systems:</h3>
