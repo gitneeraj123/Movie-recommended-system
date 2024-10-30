@@ -5,7 +5,7 @@
     <p align="center">
         <img src="photo1.jpg" width="500" height="400">
      </p>
-    <p>This project aims to build a movie recommendation system using Machine Learning (ML) techniques. The system will analyze user data like ratings, watch history, and preferences to suggest personalized movie choices, helping users navigate the vast film catalog efficiently.</p>
+    <p>This project aims to build a movie recommendation system using Machine Learning (ML) techniques. The system will analyze user data like ratings,genre,cast and preferences to suggest personalized movie choices, helping users navigate the vast film catalog efficiently.</p>
     <h3>Movie Recommended Systems:</h3>
     <ol>
         <li><strong>Content-Based Recommended System:</strong> This system recommends movies based on the similarity of their content (e.g., genre, actors, plot) to the user's past preferences. It analyzes the features of movies a user has liked and suggests similar ones.</li>
